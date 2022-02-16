@@ -1,0 +1,13 @@
+.table {
+  height: 300px;
+  overflow-y: scroll;
+  margin-top: 20px;
+  color: black;
+  margin-top: 140px;
+}
+
+ul > ol {
+  margin-top: 15px;
+  padding-bottom: 5px;
+  border-bottom: 0.8px solid grey;
+}

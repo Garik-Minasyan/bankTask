@@ -1,0 +1,29 @@
+.bigBlock {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.form {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.form > input {
+  margin-top: 10px;
+  border-radius: 5px;
+  height: 20px;
+  outline: none;
+  padding: 0 5px;
+  border: 1px solid gray;
+}
+
+.addButton {
+  margin: 10px auto;
+  padding: 5px;
+  color: red;
+  border: 2px solid red;
+  border-radius: 5px;
+  cursor: pointer;
+  background: white;
+  width: 150px;
+}
